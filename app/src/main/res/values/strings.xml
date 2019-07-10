@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DemoSimpleMusicPlayer</string>
+    <string name="title_song">Song Title</string>
+    <string name="msg_created">Created</string>
+    <string name="msg_seekbar_running">seek bar is running</string>
+    <string name="msg_started">Started</string>
+    <string name="msg_destroyed">Destroyed</string>
+    <string name="title_channel">Channel name</string>
 </resources>
